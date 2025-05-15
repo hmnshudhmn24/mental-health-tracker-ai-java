@@ -34,11 +34,3 @@ Welcome to the **Mental Health Tracker** – a Java-powered journaling app that 
 ## 💡 Inspiration
 
 Mental wellness is vital. This app is a step towards using tech for emotional well-being ❤️
-
-## 🧑‍💻 Author
-
-Built with ❤️ by an innovative developer.
-
----
-
-> 🧘 Stay mindful. Track your feelings. Heal better.
