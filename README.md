@@ -22,6 +22,7 @@ Welcome to the **Mental Health Tracker** – a Java-powered journaling app that 
 2. Compile and run the program:
    ```bash
    javac MentalHealthTracker.java
+   
    java mentalhealthtracker.MentalHealthTracker
    ```
 
